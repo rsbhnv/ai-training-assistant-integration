@@ -93,7 +93,7 @@ This project provided hands-on experience in:
 
 
 ## 📄 Architecture Diagram (Placeholder)
-
+```
 Client UI
 ↓
 Coordinator Service
@@ -101,7 +101,7 @@ Coordinator Service
 AI / RAG / Speech Services
 ↓
 Scenarios / Users / Logs Storage
-
+```
 ---
 ## 📌 Note
 This repository provides a high-level, public overview of a real-world system.
